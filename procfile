@@ -1,1 +1,1 @@
-worker: node obed.js 
+worker: node ben.js 
